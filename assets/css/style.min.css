@@ -93,6 +93,12 @@
 .my-cus-2 {
   margin-bottom: 50px;
 }
+.bg-1 {
+  background-color: rgba(var(--p4), 0.3);
+  border: 1px solid rgba(var(--p1), 1);
+  border-radius: 10px;
+  padding: 10px;
+}
 @media (min-width: 768px) {
   .w-md-50 {
     width: 50%;
