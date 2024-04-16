@@ -32,7 +32,7 @@ for crypto in data["data"]:
     objects.append(obj)
 
 # Mở một file để ghi dữ liệu
-with open('crypto_data.json', 'w') as f:
+with open('./assets/utils/crypto_data.json', 'w') as f:
     # Ghi dữ liệu vào file dưới dạng JSON
     json.dump(objects, f)
 
