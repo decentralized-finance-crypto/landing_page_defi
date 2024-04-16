@@ -1,0 +1,62 @@
+[
+    {
+        "segment": "Private Sale",
+        "tokens": 1000000,
+        "percentage": "10%",
+        "vesting": "Release 10%/month, 30-day cycle within 10 months"
+    },
+    {
+        "segment": "Launch",
+        "tokens": 1500000,
+        "percentage": "15%",
+        "vesting": "Release 15%/month"
+    },
+    {
+        "segment": "Incentive Programs",
+        "tokens": 600000,
+        "percentage": "6%",
+        "vesting": "Released according to the development of the project"
+    },
+    {
+        "segment": "Risk Reserve Fund",
+        "tokens": 1600000,
+        "percentage": "16%",
+        "vesting": "Locked 12 months. After that, the release begin, the entire amount is put into the risk reserve fund"
+    },
+    {
+        "segment": "Marketing",
+        "tokens": 500000,
+        "percentage": "5%",
+        "vesting": "Release 5%/month, 30-day cycle within 20 months"
+    },
+    {
+        "segment": "Ecosystem",
+        "tokens": 1600000,
+        "percentage": "16%",
+        "vesting": "Locked 12 months. After that, the release begin. Release 5%/month"
+    },
+    {
+        "segment": "Airdrop",
+        "tokens": 100000,
+        "percentage": "1%",
+        "vesting": "Release 1%/month"
+    },
+    {
+        "segment": "DAO Treasury",
+        "tokens": 1500000,
+        "percentage": "15%",
+        "vesting": "Locked 3 years. After that, the release begin. Cycle Release 3%"
+    },
+    {
+        "segment": "VCs Partnerships",
+        "tokens": 400000,
+        "percentage": "4%",
+        "vesting": "Locked 3 months. After that, the release begin. Cycle 30 days, release 5%"
+    },
+    {
+        "segment": "Core Team",
+        "tokens": 1200000,
+        "percentage": "12%",
+        "vesting": "Release 4%/month, 30-day cycle within 25 months"
+    }
+]
