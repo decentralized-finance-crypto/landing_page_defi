@@ -97,6 +97,9 @@
   .w-md-50 {
     width: 50%;
   }
+  .w-md-75 {
+    width: 75% !important;
+  }
   .w-md-auto {
     width: auto !important;
   }
@@ -2468,7 +2471,7 @@ input[type="radio"] {
   background-image: url("../images/ready-bg-cmn.png");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 .not_found {
   height: 100vh;

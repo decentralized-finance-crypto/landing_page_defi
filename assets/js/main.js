@@ -137,6 +137,10 @@ document.addEventListener("DOMContentLoaded", function () {
       scrollActive.call(this, e);
     });
 
+    $(document).on("click", ".hero_area__content-btntwo", function (e) {
+      scrollActive.call(this, e);
+    });
+
     function scrollActive(e) {
       e.preventDefault();
       $(this).parent().siblings().find("a").removeClass("active");
